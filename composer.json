@@ -1,0 +1,19 @@
+{
+    "name": "novum/innovation-app-demo-collection",
+    "description": "A package with just a composer.json file referencing demo systems for an easy installation",
+    "type": "library",
+    "require": {
+        "novum/api-svb": "dev-master",
+        "novum/api-uwv": "dev-master",
+        "novum/api-justitie": "dev-master",
+        "novum/api-belastingdienst": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Boutkam",
+            "email": "anton@novum.nu"
+        }
+    ],
+    "minimum-stability": "dev"
+}

@@ -1,3 +1,10 @@
-# Innovation App Demo Collection
+# Demo collection
+<p align="center"><img src="https://gitlab.com/NovumGit/innovation-app-core/-/raw/master/assets/novum.png"  alt="Novum logo"/></p>
 
-Installs a collection of demo API's and websites into the Novum Innovation App.
+This package contains no code. The composer.json file defines a set of installable plugins / dependencies that can be 
+installed inside the [Novum Innovation app](https://docs.demo.novum.nu).
+
+##More info?
+Documentation can be found here: [https://docs.demo.novum.nu](https://docs.demo.novum.nu).
+
+
